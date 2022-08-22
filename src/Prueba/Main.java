@@ -12,9 +12,12 @@ public class Main {
 	String e="eEEeeEEEEE";
 		
 		
-			Metodos.canteE(e);
+		int[] lista= {3,4,5,100};
 	
 	
+	
+	System.out.println(Metodos.reverso("hola"));
 	}
+	
 
 }
